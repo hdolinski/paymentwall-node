@@ -5,9 +5,3 @@ node_js:
   - "0.12"
   - "0.11"
   - "0.10"
-after_script:
-  - "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
-  - codeclimate < ./coverage/lcov.info
-addons:
-  code_climate:
-    repo_token: MWzLstbRsfOFj5jzNeNkXiJMJkZC1coeh
