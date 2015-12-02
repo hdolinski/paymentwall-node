@@ -4,7 +4,7 @@ Merchants can plugin Paymentwall's API to accept payments from over 100 differen
 
 To sign up for a Paymentwall Merchant Account, [click here](http://paymentwall.com/signup/merchant?source=gh-node).
 
-[![Build Status](https://travis-ci.org/hdolinski/paymentwall-node.svg?branch=master)]((https://travis-ci.org/ebanx-integration/ebanx-nodejs))  [![Code Climate](https://codeclimate.com/github/hdolinski/paymentwall-node/badges/gpa.svg)](https://codeclimate.com/github/hdolinski/paymentwall-node)
+[![Build Status](https://travis-ci.org/hdolinski/paymentwall-node.svg?branch=master)]((https://travis-ci.org/ebanx-integration/ebanx-nodejs))  [![Code Climate](https://codeclimate.com/github/hdolinski/paymentwall-node/badges/gpa.svg)](https://codeclimate.com/github/hdolinski/paymentwall-node) [![devDependency Status](https://david-dm.org/hdolinski/paymentwall-node/dev-status.svg)](https://david-dm.org/hdolinski/paymentwall-node#info=devDependencies)
   
   
 #Paymentwall Node.js Library
