@@ -30,7 +30,8 @@
     "cucumber": "*",
     "chai": "*",
     "request": "*",
-    "cheerio": "*"
+    "cheerio": "*",
+    "codeclimate-test-reporter": "*"
   },
   "license": "MIT",
   "homepage": "http://www.paymentwall.com"
